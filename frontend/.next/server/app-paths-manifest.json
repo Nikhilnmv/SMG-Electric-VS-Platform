@@ -1,0 +1,11 @@
+{
+  "/login/page": "app/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/modules/page": "app/admin/modules/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/modules/page": "app/modules/page.js",
+  "/watch-history/page": "app/watch-history/page.js",
+  "/focus-mode/page": "app/focus-mode/page.js",
+  "/modules/[moduleId]/page": "app/modules/[moduleId]/page.js"
+}
